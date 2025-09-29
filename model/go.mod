@@ -1,4 +1,4 @@
-module github.com/openshift-online/ocm-api-model/model
+module github.com/miguelsorianod/ocm-api-model/model
 
 go 1.23.0
 

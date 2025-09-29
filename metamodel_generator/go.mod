@@ -1,4 +1,4 @@
-module github.com/openshift-online/ocm-api-model/metamodel_generator
+module github.com/miguelsorianod/ocm-api-model/metamodel_generator
 
 go 1.23.0
 
